@@ -1,1 +1,1 @@
-# backend_chat_broadcaste
+To run the server : npm start
